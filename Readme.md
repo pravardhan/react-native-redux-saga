@@ -1,0 +1,1 @@
+# A Starter Kit for the projects that inclue React Native, Redux, Redux Saga and React Navigation
